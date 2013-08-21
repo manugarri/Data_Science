@@ -1,0 +1,334 @@
+ITEM VARIABLE_ID                    VARIABLE_LABEL                                              TYPE SIZE
+
+1    GEOGRAPHY_ID                   TA: Geography Id                                            A    12   
+2    GEOGRAPHIC_NAME                TA: Geography Name                                          A    13   
+3    GEO_CENTROID_LAT               TA: Geography Centroid Latitude                             F    9.6  
+4    GEO_CENTROID_LON               TA: Geography Centroid Longitude                            F    10.6 
+5    CYPOP_HISP_LAT_OTH_SOUTHAM     TA: Cypop Hisp Lat Oth Southamer                            I    1    
+6    CYPOP_ASIAN_BANGLADESHI        TA: Cypop Asian Bangladeshi                                 I    1    
+7    CYPOP_ASIAN_INDONESIAN         TA: Cypop Asian Indonesian                                  I    1    
+8    CYPOP_ASIAN_MALAYSIAN          TA: Cypop Asian Malaysian                                   I    1    
+9    CYPOP_ASIAN_PAKISTANI          TA: Cypop Asian Pakistani                                   I    1    
+10   CYPOP_ASIAN_SRILANKAN          TA: Cypop Asian Srilankan                                   I    1    
+11   CYPOP_ASIAN_TAIWANESE          TA: Cypop Asian Taiwanese                                   I    2    
+12   CYPOP_HISP_LAT_BOLIVIAN1       TA: Cypop Hisp Lat Bolivian                                 I    2    
+13   CYPOP_HISP_LAT_CHILEAN1        TA: Cypop Hisp Lat Chilean                                  I    2    
+14   CYPOP_HISP_LAT_COLOMBIAN1      TA: Cypop Hisp Lat Colombian                                I    2    
+15   CYPOP_HISP_LAT_DOMINICANRE     TA: Cypop Hisp Lat Dominicanrep                             I    2    
+16   CYPOP_HISP_LAT_ECUADORIAN1     TA: Cypop Hisp Lat Ecuadorian                               I    1    
+17   CYPOP_HISP_LAT_GUATEMALAN1     TA: Cypop Hisp Lat Guatemalan                               I    3    
+18   CYPOP_HISP_LAT_HONDURAN1       TA: Cypop Hisp Lat Honduran                                 I    3    
+19   CYPOP_HISP_LAT_NICARAGUAN1     TA: Cypop Hisp Lat Nicaraguan                               I    2    
+20   CYPOP_HISP_LAT_PANAMANIAN1     TA: Cypop Hisp Lat Panamanian                               I    1    
+21   CYPOP_HISP_LAT_PARAGUAYAN1     TA: Cypop Hisp Lat Paraguayan                               I    1    
+22   CYPOP_HISP_LAT_PERUVIAN1       TA: Cypop Hisp Lat Peruvian                                 I    1    
+23   CYPOP_HISP_LAT_SALVADORAN1     TA: Cypop Hisp Lat Salvadoran                               I    2    
+24   CYPOP_HISP_LAT_URUGUAYAN1      TA: Cypop Hisp Lat Uruguayan                                I    1    
+25   CYPOP_HISP_LAT_VENEZUELAN1     TA: Cypop Hisp Lat Venezuelan                               I    2    
+26   PRIZMNE_HH_CY_SG01             TA: 2013 HHs in PRIZM SG 01 - Urban Uptown                  I    1    
+27   PRIZMNE_HH_CY_SG02             TA: 2013 HHs in PRIZM SG 02 - Midtown Mix                   I    1    
+28   PRIZMNE_HH_CY_SG03             TA: 2013 HHs in PRIZM SG 03 - Urban Cores                   I    1    
+29   PRIZMNE_HH_CY_SG04             TA: 2013 HHs in PRIZM SG 04 - Elite Suburbs                 I    1    
+30   PRIZMNE_HH_CY_SG05             TA: 2013 HHs in PRIZM SG 05 - The Affluentials              I    1    
+31   PRIZMNE_HH_CY_SG06             TA: 2013 HHs in PRIZM SG 06 - Middleburbs                   I    1    
+32   PRIZMNE_HH_CY_SG07             TA: 2013 HHs in PRIZM SG 07 - Inner Suburbs                 I    1    
+33   PRIZMNE_HH_CY_SG08             TA: 2013 HHs in PRIZM SG 08 - 2nd City Society              I    4    
+34   PRIZMNE_HH_CY_SG09             TA: 2013 HHs in PRIZM SG 09 - City Centers                  I    3    
+35   PRIZMNE_HH_CY_SG10             TA: 2013 HHs in PRIZM SG 10 - Micro-City Blues              I    2    
+36   PRIZMNE_HH_CY_SG11             TA: 2013 HHs in PRIZM SG 11 - Landed Gentry                 I    4    
+37   PRIZMNE_HH_CY_SG12             TA: 2013 HHs in PRIZM SG 12 - Country Comfort               I    4    
+38   PRIZMNE_HH_CY_SG13             TA: 2013 HHs in PRIZM SG 13 - Middle America                I    3    
+39   PRIZMNE_HH_CY_SG14             TA: 2013 HHs in PRIZM SG 14 - Rustic Living                 I    3    
+40   PRIZMNE_HH_CY_SG15             TA: 2013 HHs in PRIZM SG 15 - Unassigned                    I    1    
+41   CY_POP_16PL_IN_LF_CIV_EMP      TA: 2013 Pop 16+, Civilian Labor Force, Employed            I    4    
+42   CY_POP_16PL_IN_LF_CIV_UNEMP    TA: 2013 Pop 16+, Civilian Labor Force, Unemployed          I    3    
+43   CY_POP_16PL_MAL_IN_LF_02       TA: 2013 Pop 16+, Male: Civilian Labor Force, Employed      I    4    
+44   CY_POP_16PL_MAL_IN_LF_03       TA: 2013 Pop 16+, Male: Civilian Labor Force, Unemployed    I    3    
+45   CY_POP_16PL_FEM_IN_LF_06       TA: 2013 Pop 16+, Female: Civilian Labor Force, Employed    I    4    
+46   CY_POP_16PL_FEM_IN_LF_07       TA: 2013 Pop 16+, Female: Civilian Labor Force, Unemployed  I    3    
+47   CY_AVG_TRAV_TIME               TA: 2013 Avg Travel Time, Worked Away From Home             I    2    
+48   CY_WORK_AWAY_AGG_TRAV_TIME     TA: 2013 Agg Travel Time, Worked Away From Home             I    6    
+49   CY_EMP_PRIV_FP                 TA: 2013 Emp Civ Pop 16+, Class: Private For-Profit Worker  I    4    
+50   CY_EMP_PRIV_NFP                TA: 2013 Emp Civ Pop 16+, Class: Private Non-Profit Worker  I    3    
+51   CY_EMP_FED_GOVT                TA: 2013 Emp Civ Pop 16+, Class: Federal Government Worker  I    3    
+52   CY_EMP_STA_GOVT                TA: 2013 Emp Civ Pop 16+, Class: State Government Worker    I    3    
+53   CY_EMP_LOC_GOVT                TA: 2013 Emp Civ Pop 16+, Class: Local Government Worker    I    3    
+54   CY_EMP_SELF_EMP                TA: 2013 Emp Civ Pop 16+, Class: Self-Emp Worker            I    3    
+55   CY_EMP_UNPD_FAM                TA: 2013 Emp Civ Pop 16+, Class: Unpaid Family Worker       I    2    
+56   CY_EMP_ACCOM                   TA: 2013 Emp Civ Pop 16+, Ind: Accommdtn/Food Svcs          I    3    
+57   CY_EMP_PROF_ADMIN              TA: 2013 Emp Civ Pop 16+, Ind: Admin/Spprt/Waste Mgmt       I    3    
+58   CY_EMP_AGR_FOR_FSH_HNTMN       TA: 2013 Emp Civ Pop 16+, Ind: Agriculture/Forest/Fish/Hunt/MineI    3    
+59   CY_EMP_ENTERTAIN               TA: 2013 Emp Civ Pop 16+, Ind: Entertainment/Rec            I    2    
+60   CY_EMP_CONST                   TA: 2013 Emp Civ Pop 16+, Ind: Construction                 I    3    
+61   CY_EMP_EDU_SVC                 TA: 2013 Emp Civ Pop 16+, Ind: Educational Svcs             I    3    
+62   CY_EMP_FIN_INS_RE_RENT_LSNG    TA: 2013 Emp Civ Pop 16+, Ind: Fin/Insur/RE/Rent/Lse        I    3    
+63   CY_EMP_HEALTH_SVC              TA: 2013 Emp Civ Pop 16+, Ind: Health Care/Soc Asst         I    3    
+64   CY_EMP_INFO                    TA: 2013 Emp Civ Pop 16+, Ind: Information                  I    2    
+65   CY_EMP_PROF_MGMT               TA: 2013 Emp Civ Pop 16+, Ind: Mgmt of Companies            I    1    
+66   CY_EMP_MAN                     TA: 2013 Emp Civ Pop 16+, Ind: Total Manufacturing          I    3    
+67   CY_EMP_OTHER_SVC               TA: 2013 Emp Civ Pop 16+, Ind: Oth Svcs, Not Pub Admin      I    3    
+68   CY_EMP_PROF_SCI                TA: 2013 Emp Civ Pop 16+, Ind: Prof/Sci/Tech/Admin          I    3    
+69   CY_EMP_PUB_ADMIN               TA: 2013 Emp Civ Pop 16+, Ind: Public Administration        I    3    
+70   CY_EMP_RETAIL                  TA: 2013 Emp Civ Pop 16+, Ind: Retail Trade                 I    3    
+71   CY_EMP_TRANS_WHSE_UTIL         TA: 2013 Emp Civ Pop 16+, Ind: Transport/Warehse/Utils      I    3    
+72   CY_EMP_WHOLESALE               TA: 2013 Emp Civ Pop 16+, Ind: Wholesale Trade              I    3    
+73   CY_EMP_ARCH_ENGINEER           TA: 2013 Emp Civ Pop 16+, Occ: Architect/Engineer           I    3    
+74   CY_EMP_ART_ENT_SPRT_MED        TA: 2013 Emp Civ Pop 16+, Occ: Arts/Entertain/Sports        I    3    
+75   CY_EMP_BLDG_CLN_MAINT          TA: 2013 Emp Civ Pop 16+, Occ: Building Grounds Maint       I    3    
+76   CY_EMP_BUS_OP_FIN_SPEC         TA: 2013 Emp Civ Pop 16+, Occ: Business/Financial Ops       I    3    
+77   CY_EMP_COMM_SOC_SCI            TA: 2013 Emp Civ Pop 16+, Occ: Community/Soc Svcs           I    3    
+78   CY_EMP_COMP_MATH               TA: 2013 Emp Civ Pop 16+, Occ: Computer/Mathematical        I    3    
+79   CY_EMP_CONSTRUCT_EXTRACT       TA: 2013 Emp Civ Pop 16+, Occ: Construction/Extraction      I    3    
+80   CY_EMP_EDU_TRAIN_LIB           TA: 2013 Emp Civ Pop 16+, Occ: Edu/Training/Library         I    3    
+81   CY_EMP_FARM_FISH_FOR           TA: 2013 Emp Civ Pop 16+, Occ: Farm/Fish/Forestry           I    3    
+82   CY_EMP_FOOD_PREP_SRV           TA: 2013 Emp Civ Pop 16+, Occ: Food Prep/Serving            I    3    
+83   CY_EMP_HLTH_PRAC_TECH          TA: 2013 Emp Civ Pop 16+, Occ: Health Practitioner/Tec      I    3    
+84   CY_EMP_HLTH_SPRT               TA: 2013 Emp Civ Pop 16+, Occ: Healthcare Support           I    3    
+85   CY_EMP_INST_MAINT_REPAIR       TA: 2013 Emp Civ Pop 16+, Occ: Maintenance Repair           I    3    
+86   CY_EMP_LEGAL                   TA: 2013 Emp Civ Pop 16+, Occ: Legal                        I    2    
+87   CY_EMP_LIF_PHYS_SOC_SCI        TA: 2013 Emp Civ Pop 16+, Occ: Life/Phys/Soc Science        I    2    
+88   CY_EMP_MANAGEMENT              TA: 2013 Emp Civ Pop 16+, Occ: Management                   I    3    
+89   CY_EMP_OFC_ADMIN               TA: 2013 Emp Civ Pop 16+, Occ: Office/Admin Support         I    3    
+90   CY_EMP_PRODUCT                 TA: 2013 Emp Civ Pop 16+, Occ: Production                   I    3    
+91   CY_EMP_PROTECTIVE_SRV          TA: 2013 Emp Civ Pop 16+, Occ: Protective Svcs              I    3    
+92   CY_EMP_SALES                   TA: 2013 Emp Civ Pop 16+, Occ: Sales/Related                I    3    
+93   CY_EMP_PERS_SVC                TA: 2013 Emp Civ Pop 16+, Occ: Personal Care/Svc            I    3    
+94   CY_EMP_TRANS_MATRL_MOVE        TA: 2013 Emp Civ Pop 16+, Occ: Transportation/Moving        I    3    
+95   CY_EMP_WHITE                   TA: 2013 Emp Civ Pop 16+, Occ: White Collar                 I    4    
+96   CY_EMP_BLUE                    TA: 2013 Emp Civ Pop 16+, Occ: Blue Collar                  I    3    
+97   CY_EMP_SVC_FARM                TA: 2013 Emp Civ Pop 16+, Occ: Service & Farm               I    3    
+98   CY_HH_INC_LT_015_N             TA: 2013 HHs, Inc < $15,000                                 I    3    
+99   CY_HH_INC_015_025              TA: 2013 HHs, Inc $15,000 - $24,999                         I    3    
+100  CY_HH_INC_025_035              TA: 2013 HHs, Inc $25,000 - $34,999                         I    3    
+101  CY_HH_INC_035_050              TA: 2013 HHs, Inc $35,000 - $49,999                         I    3    
+102  CY_HH_INC_050_075              TA: 2013 HHs, Inc $50,000 - $74,999                         I    3    
+103  CY_HH_INC_075_100              TA: 2013 HHs, Inc $75,000 - $99,999                         I    3    
+104  CY_HH_INC_100_125              TA: 2013 HHs, Inc $100,000 - $124,999                       I    3    
+105  CY_HH_INC_125_150              TA: 2013 HHs, Inc $125,000 - $149,999                       I    3    
+106  CY_HH_INC_150_200              TA: 2013 HHs, Inc $150,000 - $199,999                       I    3    
+107  CY_HH_INC_200_250              TA: 2013 HHs, Inc $200,000 - $249,999                       I    2    
+108  CY_HH_INC_250_500              TA: 2013 HHs, Inc $250,000 - $499,999                       I    2    
+109  CY_HH_INC_500_PL               TA: 2013 HHs, Inc $500,000+                                 I    2    
+110  CY_HH_WHT_AL_INC_LT_015        TA: 2013 HH Inc, White < $15,000                            I    3    
+111  CY_HH_WHT_AL_INC_015_025       TA: 2013 HH Inc, White $15,000 - $24,999                    I    3    
+112  CY_HH_WHT_AL_INC_025_035       TA: 2013 HH Inc, White $25,000 - $34,999                    I    3    
+113  CY_HH_WHT_AL_INC_035_050       TA: 2013 HH Inc, White $35,000 - $49,999                    I    3    
+114  CY_HH_WHT_AL_INC_050_075       TA: 2013 HH Inc, White $50,000 - $74,999                    I    3    
+115  CY_HH_WHT_AL_INC_075_100       TA: 2013 HH Inc, White $75,000 - $99,999                    I    3    
+116  CY_HH_WHT_AL_INC_100_125       TA: 2013 HH Inc, White $100,000 - $124,999                  I    3    
+117  CY_HH_WHT_AL_INC_125_150       TA: 2013 HH Inc, White $125,000 - $149,999                  I    3    
+118  CY_HH_WHT_AL_INC_150_200       TA: 2013 HH Inc, White $150,000 - $199,999                  I    3    
+119  CY_HH_WHT_AL_INC_200_PL        TA: 2013 HH Inc, White $200,000+                            I    3    
+120  CY_PFM_MEDHHINC_WHITE_AL       TA: 2013 Med HH Inc, White                                  I    6    
+121  CY_AVG_HH_INC_RC_WHITE         TA: 2013 Avg HH Inc, White                                  I    6    
+122  CY_AHI_WHITE_AL                TA: 2013 Agg HH Inc, White                                  I    9    
+123  CY_HH_BLK_AL_INC_LT_015        TA: 2013 HH Inc, Black/Af Amer < $15,000                    I    3    
+124  CY_HH_BLK_AL_INC_015_025       TA: 2013 HH Inc, Black/Af Amer $15,000 - $24,999            I    3    
+125  CY_HH_BLK_AL_INC_025_035       TA: 2013 HH Inc, Black/Af Amer $25,000 - $34,999            I    2    
+126  CY_HH_BLK_AL_INC_035_050       TA: 2013 HH Inc, Black/Af Amer $35,000 - $49,999            I    2    
+127  CY_HH_BLK_AL_INC_050_075       TA: 2013 HH Inc, Black/Af Amer $50,000 - $74,999            I    3    
+128  CY_HH_BLK_AL_INC_075_100       TA: 2013 HH Inc, Black/Af Amer $75,000 - $99,999            I    2    
+129  CY_HH_BLK_AL_INC_100_125       TA: 2013 HH Inc, Black/Af Amer $100,000 - $124,999          I    2    
+130  CY_HH_BLK_AL_INC_125_150       TA: 2013 HH Inc, Black/Af Amer $125,000 - $149,999          I    2    
+131  CY_HH_BLK_AL_INC_150_200       TA: 2013 HH Inc, Black/Af Amer $150,000 - $199,999          I    2    
+132  CY_HH_BLK_AL_INC_200_PL        TA: 2013 HH Inc, Black/Af Amer $200,000+                    I    2    
+133  CY_PFM_MEDHHINC_BLACK_AL       TA: 2013 Med HH Inc, Black/Af Amer                          I    6    
+134  CY_AVG_HH_INC_RC_BLCKAA        TA: 2013 Avg HH Inc, Black/Af Amer                          I    6    
+135  CY_AHI_BLACK_AL                TA: 2013 Agg HH Inc, Black/Af Amer                          I    8    
+136  CY_HH_AMI_AL_INC_LT_015        TA: 2013 HH Inc, Am Ind/AK Native < $15,000                 I    2    
+137  CY_HH_AMI_AL_INC_015_025       TA: 2013 HH Inc, Am Ind/AK Native $15,000 - $24,999         I    2    
+138  CY_HH_AMI_AL_INC_025_035       TA: 2013 HH Inc, Am Ind/AK Native $25,000 - $34,999         I    2    
+139  CY_HH_AMI_AL_INC_035_050       TA: 2013 HH Inc, Am Ind/AK Native $35,000 - $49,999         I    2    
+140  CY_HH_AMI_AL_INC_050_075       TA: 2013 HH Inc, Am Ind/AK Native $50,000 - $74,999         I    1    
+141  CY_HH_AMI_AL_INC_075_100       TA: 2013 HH Inc, Am Ind/AK Native $75,000 - $99,999         I    1    
+142  CY_HH_AMI_AL_INC_100_125       TA: 2013 HH Inc, Am Ind/AK Native $100,000 - $124,999       I    1    
+143  CY_HH_AMI_AL_INC_125_150       TA: 2013 HH Inc, Am Ind/AK Native $125,000 - $149,999       I    1    
+144  CY_HH_AMI_AL_INC_150_200       TA: 2013 HH Inc, Am Ind/AK Native $150,000 - $199,999       I    1    
+145  CY_HH_AMI_AL_INC_200_PL        TA: 2013 HH Inc, Am Ind/AK Native $200,000+                 I    1    
+146  CY_PFM_MEDHHINC_AMIND_AL       TA: 2013 Med HH Inc, Am Ind/AK Native                       I    6    
+147  CY_AVG_HH_INC_RC_AIALN         TA: 2013 Avg HH Inc, Am Ind/AK Native                       I    6    
+148  CY_AHI_AMIND_AL                TA: 2013 Agg HH Inc, Am Ind/AK Native                       I    7    
+149  CY_HH_ASN_AL_INC_LT_015        TA: 2013 HH Inc, Asian < $15,000                            I    2    
+150  CY_HH_ASN_AL_INC_015_025       TA: 2013 HH Inc, Asian $15,000 - $24,999                    I    1    
+151  CY_HH_ASN_AL_INC_025_035       TA: 2013 HH Inc, Asian $25,000 - $34,999                    I    2    
+152  CY_HH_ASN_AL_INC_035_050       TA: 2013 HH Inc, Asian $35,000 - $49,999                    I    2    
+153  CY_HH_ASN_AL_INC_050_075       TA: 2013 HH Inc, Asian $50,000 - $74,999                    I    2    
+154  CY_HH_ASN_AL_INC_075_100       TA: 2013 HH Inc, Asian $75,000 - $99,999                    I    1    
+155  CY_HH_ASN_AL_INC_100_125       TA: 2013 HH Inc, Asian $100,000 - $124,999                  I    2    
+156  CY_HH_ASN_AL_INC_125_150       TA: 2013 HH Inc, Asian $125,000 - $149,999                  I    1    
+157  CY_HH_ASN_AL_INC_150_200       TA: 2013 HH Inc, Asian $150,000 - $199,999                  I    2    
+158  CY_HH_ASN_AL_INC_200_PL        TA: 2013 HH Inc, Asian $200,000+                            I    1    
+159  CY_PFM_MEDHHINC_ASIAN_AL       TA: 2013 Med HH Inc, Asian                                  I    6    
+160  CY_AVG_HH_INC_RC_ASIAN         TA: 2013 Avg HH Inc, Asian                                  I    6    
+161  CY_AHI_ASIAN_AL                TA: 2013 Agg HH Inc, Asian                                  I    7    
+162  CY_HH_NHP_AL_INC_LT_015        TA: 2013 HH Inc, Native HI/PI < $15,000                     I    1    
+163  CY_HH_NHP_AL_INC_015_025       TA: 2013 HH Inc, Native HI/PI $15,000 - $24,999             I    1    
+164  CY_HH_NHP_AL_INC_025_035       TA: 2013 HH Inc, Native HI/PI $25,000 - $34,999             I    1    
+165  CY_HH_NHP_AL_INC_035_050       TA: 2013 HH Inc, Native HI/PI $35,000 - $49,999             I    1    
+166  CY_HH_NHP_AL_INC_050_075       TA: 2013 HH Inc, Native HI/PI $50,000 - $74,999             I    1    
+167  CY_HH_NHP_AL_INC_075_100       TA: 2013 HH Inc, Native HI/PI $75,000 - $99,999             I    1    
+168  CY_HH_NHP_AL_INC_100_125       TA: 2013 HH Inc, Native HI/PI $100,000 - $124,999           I    1    
+169  CY_HH_NHP_AL_INC_125_150       TA: 2013 HH Inc, Native HI/PI $125,000 - $149,999           I    1    
+170  CY_HH_NHP_AL_INC_150_200       TA: 2013 HH Inc, Native HI/PI $150,000 - $199,999           I    1    
+171  CY_HH_NHP_AL_INC_200_PL        TA: 2013 HH Inc, Native HI/PI $200,000+                     I    1    
+172  CY_PFM_MEDHHINC_NHPI_AL        TA: 2013 Med HH Inc, Native HI/PI                           I    6    
+173  CY_AVG_HH_INC_RC_NHPI          TA: 2013 Avg HH Inc, Native HI/PI                           I    6    
+174  CY_AHI_NHPI_AL                 TA: 2013 Agg HH Inc, Native HI/PI                           I    6    
+175  CY_HH_OTH_AL_INC_LT_015        TA: 2013 HH Inc, Some Other Race < $15,000                  I    2    
+176  CY_HH_OTH_AL_INC_015_025       TA: 2013 HH Inc, Some Other Race $15,000 - $24,999          I    2    
+177  CY_HH_OTH_AL_INC_025_035       TA: 2013 HH Inc, Some Other Race $25,000 - $34,999          I    2    
+178  CY_HH_OTH_AL_INC_035_050       TA: 2013 HH Inc, Some Other Race $35,000 - $49,999          I    2    
+179  CY_HH_OTH_AL_INC_050_075       TA: 2013 HH Inc, Some Other Race $50,000 - $74,999          I    2    
+180  CY_HH_OTH_AL_INC_075_100       TA: 2013 HH Inc, Some Other Race $75,000 - $99,999          I    2    
+181  CY_HH_OTH_AL_INC_100_125       TA: 2013 HH Inc, Some Other Race $100,000 - $124,999        I    2    
+182  CY_HH_OTH_AL_INC_125_150       TA: 2013 HH Inc, Some Other Race $125,000 - $149,999        I    1    
+183  CY_HH_OTH_AL_INC_150_200       TA: 2013 HH Inc, Some Other Race $150,000 - $199,999        I    1    
+184  CY_HH_OTH_AL_INC_200_PL        TA: 2013 HH Inc, Some Other Race $200,000+                  I    1    
+185  CY_PFM_MEDHHINC_OTHER_AL       TA: 2013 Med HH Inc, Some Other Race                        I    6    
+186  CY_AVG_HH_INC_RC_OTHER         TA: 2013 Avg HH Inc, Some Other Race                        I    6    
+187  CY_AHI_OTHER_AL                TA: 2013 Agg HH Inc, Some Other Race                        I    7    
+188  CY_HH_2_PLRC_INC_LT_015        TA: 2013 HH Inc, 2+ Races < $15,000                         I    2    
+189  CY_HH_2_PLRC_INC_015_025       TA: 2013 HH Inc, 2+ Races $15,000 - $24,999                 I    2    
+190  CY_HH_2_PLRC_INC_025_035       TA: 2013 HH Inc, 2+ Races $25,000 - $34,999                 I    2    
+191  CY_HH_2_PLRC_INC_035_050       TA: 2013 HH Inc, 2+ Races $35,000 - $49,999                 I    2    
+192  CY_HH_2_PLRC_INC_050_075       TA: 2013 HH Inc, 2+ Races $50,000 - $74,999                 I    2    
+193  CY_HH_2_PLRC_INC_075_100       TA: 2013 HH Inc, 2+ Races $75,000 - $99,999                 I    2    
+194  CY_HH_2_PLRC_INC_100_125       TA: 2013 HH Inc, 2+ Races $100,000 - $124,999               I    2    
+195  CY_HH_2_PLRC_INC_125_150       TA: 2013 HH Inc, 2+ Races $125,000 - $149,999               I    1    
+196  CY_HH_2_PLRC_INC_150_200       TA: 2013 HH Inc, 2+ Races $150,000 - $199,999               I    1    
+197  CY_HH_2_PLRC_INC_200_PL        TA: 2013 HH Inc, 2+ Races $200,000+                         I    2    
+198  CY_PFM_MEDHHINC_2_PL_RC        TA: 2013 Med HH Inc, 2+ Races                               I    6    
+199  CY_AVG_HH_INC_RC_2PL           TA: 2013 Avg HH Inc, 2+ Races                               I    6    
+200  CY_AHI_2_PL_RC                 TA: 2013 Agg HH Inc, 2+ Races                               I    7    
+201  CY_HH_HISP_INC_LT_015          TA: 2013 HH Inc, Hisp/Lat < $15,000                         I    3    
+202  CY_HH_HISP_INC_015_025         TA: 2013 HH Inc, Hisp/Lat $15,000 - $24,999                 I    2    
+203  CY_HH_HISP_INC_025_035         TA: 2013 HH Inc, Hisp/Lat $25,000 - $34,999                 I    2    
+204  CY_HH_HISP_INC_035_050         TA: 2013 HH Inc, Hisp/Lat $35,000 - $49,999                 I    2    
+205  CY_HH_HISP_INC_050_075         TA: 2013 HH Inc, Hisp/Lat $50,000 - $74,999                 I    2    
+206  CY_HH_HISP_INC_075_100         TA: 2013 HH Inc, Hisp/Lat $75,000 - $99,999                 I    2    
+207  CY_HH_HISP_INC_100_125         TA: 2013 HH Inc, Hisp/Lat $100,000 - $124,999               I    1    
+208  CY_HH_HISP_INC_125_150         TA: 2013 HH Inc, Hisp/Lat $125,000 - $149,999               I    2    
+209  CY_HH_HISP_INC_150_200         TA: 2013 HH Inc, Hisp/Lat $150,000 - $199,999               I    2    
+210  CY_HH_HISP_INC_200_PL          TA: 2013 HH Inc, Hisp/Lat $200,000+                         I    1    
+211  CY_PFM_MEDHHINC_HISP           TA: 2013 Med HH Inc, Hisp/Lat                               I    6    
+212  CY_AVG_HH_INC_HISP             TA: 2013 Avg HH Inc, Hisp/Lat                               I    6    
+213  CY_AHI_HISP                    TA: 2013 Agg HH Inc, Hisp/Lat                               I    7    
+214  CY_HH_EBI_LT_015               TA: 2013 HHs, EBI < $15,000                                 I    3    
+215  CY_HH_EBI_015_025              TA: 2013 HHs, EBI $15,000 - $24,999                         I    3    
+216  CY_HH_EBI_025_035              TA: 2013 HHs, EBI $25,000 - $34,999                         I    3    
+217  CY_HH_EBI_035_050              TA: 2013 HHs, EBI $35,000 - $49,999                         I    3    
+218  CY_HH_EBI_050_075              TA: 2013 HHs, EBI $50,000 - $74,999                         I    3    
+219  CY_HH_EBI_075_100              TA: 2013 HHs, EBI $75,000 - $99,999                         I    3    
+220  CY_HH_EBI_100_125              TA: 2013 HHs, EBI $100,000 - $124,999                       I    3    
+221  CY_HH_EBI_125_150              TA: 2013 HHs, EBI $125,000 - $149,999                       I    3    
+222  CY_HH_EBI_150_200              TA: 2013 HHs, EBI $150,000 - $199,999                       I    2    
+223  CY_HH_EBI_200_250              TA: 2013 HHs, EBI $200,000 - $249,999                       I    2    
+224  CY_HH_EBI_250_500              TA: 2013 HHs, EBI $250,000 - $499,999                       I    2    
+225  CY_HH_EBI_500_PL               TA: 2013 HHs, EBI $500,000+                                 I    2    
+226  CY_PFM_MEDHHEBI                TA: 2013 Med HH EBI                                         I    5    
+227  CY_AVG_HH_EBI                  TA: 2013 Avg HH EBI                                         I    6    
+228  CY_FAM_AB_POV                  TA: 2013 Families At/Above Poverty                          I    4    
+229  CY_FAM_AB_POV_KIDS             TA: 2013 Families At/Above Poverty, With Kids               I    4    
+230  CY_FAM_INC_LT_POV              TA: 2013 Families Below Poverty                             I    3    
+231  CY_FAM_INC_LT_POV_KIDS         TA: 2013 Families Below Poverty, With Kids                  I    3    
+232  CY_POP_25PL_LT_9TH_GR_N        TA: 2013 Pop 25+, Less than 9th Grade                       I    3    
+233  CY_POP_25PL_SM_HS_N            TA: 2013 Pop 25+, Some High School, No Diploma              I    3    
+234  CY_POP_25PL_HS_GRAD            TA: 2013 Pop 25+, High School Graduate                      I    4    
+235  CY_POP_25PL_SM_CL_NO_DEG       TA: 2013 Pop 25+, Some College, No Degree                   I    4    
+236  CY_POP_25PL_ASS_DEG            TA: 2013 Pop 25+, Associate's Degree                        I    3    
+237  CY_POP_25PL_BACH_DEG           TA: 2013 Pop 25+, Bachelor's Degree                         I    4    
+238  CY_POP_25PL_MAST_DEG           TA: 2013 Pop 25+, Master's Degree                           I    3    
+239  CY_POP_25PL_PROF_DEG           TA: 2013 Pop 25+, Professional Degree                       I    3    
+240  CY_POP_25PL_DOCT_DEG           TA: 2013 Pop 25+, Doctorate Degree                          I    2    
+241  CY_OOHU_VAL_LT_020             TA: 2013 Owner-Occ HUs, Value < $20,000                     I    3    
+242  CY_OOHU_VAL_020_040            TA: 2013 Owner-Occ HUs, Value $20,000 - $39,999             I    2    
+243  CY_OOHU_VAL_040_060            TA: 2013 Owner-Occ HUs, Value $40,000 - $59,999             I    2    
+244  CY_OOHU_VAL_060_080            TA: 2013 Owner-Occ HUs, Value $60,000 - $79,999             I    3    
+245  CY_OOHU_VAL_080_099            TA: 2013 Owner-Occ HUs, Value $80,000 - $99,999             I    3    
+246  CY_OOHU_VAL_100_149            TA: 2013 Owner-Occ HUs, Value $100,000 - $149,999           I    3    
+247  CY_OOHU_VAL_150_200            TA: 2013 Owner-Occ HUs, Value $150,000 - $199,999           I    3    
+248  CY_OOHU_VAL_200_300            TA: 2013 Owner-Occ HUs, Value $200,000 - $299,999           I    3    
+249  CY_OOHU_VAL_300_400            TA: 2013 Owner-Occ HUs, Value $300,000 - $399,999           I    3    
+250  CY_OOHU_VAL_400_500            TA: 2013 Owner-Occ HUs, Value $400,000 - $499,999           I    3    
+251  CY_OOHU_VAL_500_750            TA: 2013 Owner-Occ HUs, Value $500,000 - $749,999           I    3    
+252  CY_OOHU_VAL_750_1MIL           TA: 2013 Owner-Occ HUs, Value $750,000 - $999,999           I    2    
+253  CY_OOHU_VAL_1MIL_PL            TA: 2013 Owner-Occ HUs, Value $1,000,000+                   I    3    
+254  CY_PFM_MEDVAL_OOHU             TA: 2013 Med Value, Owner-Occ HUs                           I    6    
+255  CY_AVG_VAL_OWN                 TA: 2013 Avg Value, Owner-Occ HUs                           I    6    
+256  CY_AVG_HH_SIZE                 TA: 2013 Avg HH Size                                        F    4.2  
+257  TOTAL_BUSINESSES               TA: Total Businesses (NAICS 11-92)                          I    3    
+258  TOTAL_EMPLOYEES                TA: Total Employees (NAICS 11-92)                           I    4    
+259  CY_POP                         TA: 2013 Population                                         I    4    
+260  CY_HH                          TA: 2013 Households                                         I    4    
+261  CY_VACANT_HU                   TA: 2013 Vacant Housing Units                               I    4    
+262  Y2010_CY_POP_GROWTH            TA: 2013 Percent Pop Change: 2010 to 2013                   F    5.2  
+263  CY_POP_HISP                    TA: 2013 Pop, Hisp/Lat                                      I    3    
+264  CY_POP_HISP_MAL                TA: 2013 Pop, Hisp/Lat, Male                                I    3    
+265  CY_POP_WHITE_AL                TA: 2013 Pop, White                                         I    4    
+266  CY_POP_WHITE_AL_MAL            TA: 2013 Pop, White, Male                                   I    4    
+267  CY_POP_BLACK_AL                TA: 2013 Pop, Black/Af Amer                                 I    4    
+268  CY_POP_BLACK_AL_MAL            TA: 2013 Pop, Black/Af Amer, Male                           I    3    
+269  CY_POP_AMIND_AL                TA: 2013 Pop, Am Ind/AK Native                              I    2    
+270  CY_POP_AMIND_AL_MAL            TA: 2013 Pop, Am Ind/AK Native, Male                        I    2    
+271  CY_POP_ASIAN_AL                TA: 2013 Pop, Asian                                         I    3    
+272  CY_POP_ASIAN_AL_MAL            TA: 2013 Pop, Asian, Male                                   I    3    
+273  CY_POP_NHPI_AL                 TA: 2013 Pop, Native HI/PI                                  I    2    
+274  CY_POP_NHPI_AL_MAL             TA: 2013 Pop, Native HI/PI, Male                            I    2    
+275  CY_POP_00_04                   TA: 2013 Pop, Age 0 - 4                                     I    3    
+276  CY_POP_05_09                   TA: 2013 Pop, Age 5 - 9                                     I    3    
+277  CY_POP_10_14                   TA: 2013 Pop, Age 10 - 14                                   I    3    
+278  CY_POP_15_17                   TA: 2013 Pop, Age 15 - 17                                   I    3    
+279  CY_POP_18_20                   TA: 2013 Pop, Age 18 - 20                                   I    3    
+280  CY_POP_21_24                   TA: 2013 Pop, Age 21 - 24                                   I    3    
+281  CY_POP_25_34                   TA: 2013 Pop, Age 25 - 34                                   I    4    
+282  CY_POP_35_44                   TA: 2013 Pop, Age 35 - 44                                   I    4    
+283  CY_POP_45_54                   TA: 2013 Pop, Age 45 - 54                                   I    4    
+284  CY_POP_55_64                   TA: 2013 Pop, Age 55 - 64                                   I    3    
+285  CY_POP_65_74                   TA: 2013 Pop, Age 65 - 74                                   I    3    
+286  CY_POP_75_84                   TA: 2013 Pop, Age 75 - 84                                   I    3    
+287  CY_POP_85_PL                   TA: 2013 Pop, Age 85+                                       I    3    
+288  CY_POP_05PL_LANG_ENGLISH       TA: 2013 Pop Age 5+: Speak Only English at Home             I    4    
+289  CY_POP_05PL_LANG_SPANISH       TA: 2013 Pop Age 5+: Speak Spanish at Home                  I    3    
+290  CY_POP_05PL_LANG_ASIANPI       TA: 2013 Pop Age 5+: Speak Asian/PI Lang at Home            I    3    
+291  CY_POP_05PL_LANG_INDOEUR       TA: 2013 Pop Age 5+: Speak Indo-European Lang at Home       I    3    
+292  CY_POP_05PL_LANG_OTHERLN       TA: 2013 Pop Age 5+: Speak Other Lang at Home               I    2    
+293  CY_POP_15PL_WID                TA: 2013 Pop 15+, Widowed                                   I    3    
+294  CY_POP_15PL_DIV                TA: 2013 Pop 15+, Divorced                                  I    3    
+295  CY_POP_15PL_SING               TA: 2013 Pop 15+, Never Married                             I    4    
+296  CY_POP_15PL_MARR               TA: 2013 Pop 15+, Married, Spouse Present                   I    4    
+297  CY_POP_15PL_MARR_SP_ABS        TA: 2013 Pop 15+, Married, Spouse Absent                    I    3    
+298  CY_HH_1_PERS                   TA: 2013 HHs, 1-Person HH                                   I    3    
+299  CY_HH_2_PERS                   TA: 2013 HHs, 2-Person HH                                   I    3    
+300  CY_HH_3_PERS                   TA: 2013 HHs, 3-Person HH                                   I    3    
+301  CY_HH_4_PERS                   TA: 2013 HHs, 4-Person HH                                   I    3    
+302  CY_HH_5_PERS                   TA: 2013 HHs, 5-Person HH                                   I    3    
+303  CY_HH_6_PERS                   TA: 2013 HHs, 6-Person HH                                   I    2    
+304  CY_HH_7_PL_PERS                TA: 2013 HHs, 7+ Person HH                                  I    2    
+305  CY_HU_BLT_LT_1939              TA: 2013 HUs, Built 1939 or Earlier                         I    2    
+306  CY_HU_BLT_1940_1949            TA: 2013 HUs, Built 1940 to 1949                            I    3    
+307  CY_HU_BLT_1950_1959            TA: 2013 HUs, Built 1950 to 1959                            I    3    
+308  CY_HU_BLT_1960_1969            TA: 2013 HUs, Built 1960 to 1969                            I    3    
+309  CY_HU_BLT_1970_1979            TA: 2013 HUs, Built 1970 to 1979                            I    3    
+310  CY_HU_BLT_1980_1989            TA: 2013 HUs, Built 1980 to 1989                            I    4    
+311  CY_HU_BLT_1990_1999            TA: 2013 HUs, Built 1990 to 1999                            I    4    
+312  CY_HU_BLT_2000_2004            TA: 2013 HUs, Built 2000 to 2004                            I    4    
+313  CY_HU_BLT_2005_LATER           TA: 2013 HUs, Built 2005 or Later                           I    4    
+314  CY_HU_HHR_MVD_LT_1970          TA: 2013 HHldr Moved in 1969 or Earlier                     I    2    
+315  CY_HU_HHR_MVD_1970_1979        TA: 2013 HHldr Moved in 1970 to 1979                        I    3    
+316  CY_HU_HHR_MVD_1980_1989        TA: 2013 HHldr Moved in 1980 to 1989                        I    3    
+317  CY_HU_HHR_MVD_1990_1999        TA: 2013 HHldr Moved in 1990 to 1999                        I    3    
+318  CY_HU_HHR_MVD_2000_2004        TA: 2013 HHldr Moved in 2000 to 2004                        I    3    
+319  CY_HU_HHR_MVD_2005_LTR         TA: 2013 HHldr Moved in 2005 or Later                       I    4    
+320  CY_AVG_HH_INCOME               TA: 2013 Avg HH Inc                                         I    6    
+321  CY_PFM_MEDHHINC                TA: 2013 Med HH Inc                                         I    5    
+322  CY_WORK_PUBLIC                 TA: 2013 Workers, Transportation: Public Transport          I    2    
+323  CY_WORK_DRIVE_AL               TA: 2013 Workers, Transportation: Drove Alone               I    4    
+324  CY_WORK_DRIVE_CARPOOL          TA: 2013 Workers, Transportation: Carpooled                 I    3    
+325  CY_WORK_WALKED                 TA: 2013 Workers, Transportation: Walked                    I    3    
+326  CY_WORK_BICYCLE                TA: 2013 Workers, Transportation: Bicycle                   I    2    
+327  CY_WORK_HOME                   TA: 2013 Workers, Transportation: Worked at Home            I    3    
+328  GEO_XREF_CTY_NAME              TA: Parent County name                                      A    14   
+329  GEO_XREF_ZIP_CODE              TA: Parent ZIP Code                                         A    5    
+330  GEO_XREF_DMA_NAME              TA: Parent DMA name                                         A    20   
+
+

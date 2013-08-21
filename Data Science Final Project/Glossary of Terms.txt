@@ -1,0 +1,339 @@
+http://www.homefair.com/real-estate/city-profile/popup.asp
+
+Glossary of Terms
+
+Administrative Support - The number of people working in this area employed in this role.
+
+African American - Number of people living within the area of this race.
+
+Agricultural, Forestry, Fishing - The number of people working in this area employed in this industry.
+
+Air Pollution Index - A score that represents the relative air quality by combining indices of Ozone, Carbon Monoxide, Lead, Nitrogen Oxide, and Particulate matter and comparing to the national average of 100. A score of 200 indicates twice the presence of air pollutants than the national average, while 50 indicates half the presence. The different types of pollution are given equal weight in this score, so ozone for example, does not count more than lead. Scores are based on demographic and geographic analyses of crime over seven years.
+
+Annual Precipitation (in Inches) - Combined average annual rainfall and snowfall in Inches.
+
+Annual Residential Turnover (in Percent) - Percentage of households in the area where the primary householder changed in the past year.
+
+Apparel - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Asian / Pacific Islander - Number of people living within the area of this race.
+
+Assault Risk - The act of unlawfully threatening or attempting to injure another. Index score (100=National Average).
+
+Associate Degree - Number of people achieving this level of education.
+
+Average Home Sale Price (in Dollars) - Average residential home sales price for four recent quarters. As of Dec. 2004, the period covered is July 2003 – June 2004. Based on actual sales collected from Assessor’s offices. All included sales are arms length transactions greater than $25,000 representing single family and multi-family (2 – 4) residential sales. Note: this field is only available for approximately 800 counties nationally.
+
+Average Household Income (in Dollars) - Average combined income of households in the area.
+
+Average Household Net Worth (in Dollars) - Dollars. Calculated by adding up the net worth of all of the households and dividing by the number of households.
+
+Average Household Size - Average size of area households in number of people.
+
+Average January High Temperature (in Degrees F) - Degrees Fahrenheit.
+
+Average January Low Temperature (in Degrees F) - Degrees Fahrenheit.
+
+Average July High Temperature (in Degrees F) - Degrees Fahrenheit.
+
+Average July Low Temperature (in Degrees F) - Degrees Fahrenheit.
+
+Average Total Household Expenditure (in Dollars) - Dollars. Includes total retail and nonThe number of people working in this area employed in this role.-retail expenditures per household. Examples of non-retail expenditures are mortgages, rent, insurance, repairs and maintenance--the type of things not typically obtained from retail establishments. They do not include income taxes, savings, and deferred income plans, such as an IRA or 401(k).
+
+Bachelors Degree - Number of people achieving this level of education.
+
+Blue Collar Jobs (in Percent) - Blue collar occupations include farming, forestry and fishing; handlers, equipment cleaners, helpers and laborers; machine operators, assemblers and inspectors; precision production, craft and repair; private household services; protective services; services other than protective and household; and transportation and material moving.
+
+Burglary Risk - The act of entering a building or other premises with the intent to commit theft. Index score (100=National Average).
+
+Carbon Monoxide Index - A colorless, odorless, highly poisonous gas formed by the incomplete combustion of carbon or a carbonaceous material, such as gasoline. Index score (100=National Average).
+
+Construction - The number of people working in this area employed in this industry.
+
+Construction, Repair and Mining: Field Based - The number of people working in this area employed in this role.
+
+Contributions - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Divorced - Number of people living in the area who are currently divorced.
+
+Earthquake Risk - Index score (100=National Average) that represents total earthquake risks. Based on analysis of historical earthquake magnitudes and fault locations.
+
+Education - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Entertainment - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Executives, Managers, Administrators - The number of people working in this area employed in this role.
+
+Farming, Forestry, and Fishing - The number of people working in this area employed in this role.
+
+Female - Number of females living within the area.
+
+Finance, Insurance and Real Estate - The number of people working in this area employed in this industry.
+
+Food And Beverages - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Gifts - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Graduate Degree - Number of people achieving this level of education.
+
+Hail Index - Index score (100=National Average) that represents the total risks of damaging hailstorms. Based on analysis of historical hail frequency and severity.
+
+Handlers, Helpers and Laborers - The number of people working in this area employed in this role.
+
+Hawaiian / Pacific Islander - Number of people living within the area of this race.
+
+Health Care - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+High School Graduate - Number of people achieving this level of education.
+
+Hispanic - Number of people living within the area who are of Hispanic origin.
+
+Homes Owned (in Dwellings) - Number of dwellings in the area of this type.
+
+Homes Rented (in Dwellings) - Number of dwellings in the area of this type.
+
+Household Furnishings And Equipment - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Household Income $0-$10,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $10,000-$15,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $100,000-$125,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $125,000-$150,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $15,000-$20,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $150,000-$200,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $20,000-$25,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $200,000-$250,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $25,000-$30,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $250,000-$500,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $30,000-$35,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $35,000-$40,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $40,000-$45,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $45,000-$50,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $50,000-$60,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $500,000+ (in Households) - Number of households in the area with income in this range.
+
+Household Income $60,000-$75,000 (in Households) - Number of households in the area with income in this range.
+
+Household Income $75,000-$100,000 (in Households) - Number of households in the area with income in this range.
+
+Household Operations - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Households: Family (in Households) - Number of family households in the area. A family household consists of a householder and one or more other persons living in the same household who are related to the householder by birth, marriage or adoption.
+
+Households: No Children (in Households) - Number of households with no children.
+
+Households: Non-Family (in Households) - Number of households in the area that do not contain members related by birth, marriage or adoption.
+
+Households: With Children (in Households) - Number of households with one or more children.
+
+Hurricane Index - Index score (100=National Average) that represents total hurricane risks. Based on analysis of historical hurricane tracks and intensity.
+
+Larceny Risk - The unlawful taking and removing of another's personal property with the intent of permanently depriving the owner. Index score (100=National Average).
+
+Lead Index - A metallic element used in products like solder and paint, and whose presence in the air may be particularly harmful to the health of infants and children. Index score (100=National Average).
+
+Less than 9th Grade - Number of people achieving this level of education.
+
+Machine Operators, Assemblers and Inspectors - The number of people working in this area employed in this role.
+
+Male - Number of males living within the area.
+
+Manufacturing - The number of people working in this area employed in this industry.
+
+Married - Number of people living in the area who are currently married.
+
+Median Age (in Years) - Half of the total population is above the listed age, half is below it.
+
+Median Disposable Income (in Dollars) - Half the households have disposable income above the amount listed; half have disposable income below it.
+
+Median Dwelling Age (Years) (in Years) - Half the dwellings in the area are older than this, half are newer.
+
+Median Household Income (in Dollars) - Half of the households have an income above the amount listed, half have an income below it.
+
+Median Income: Age < 25 (in Dollars) - Half the people in the area in this age range earn less than this dollar amount, half earn more than this amount.
+
+Median Income: Age 25-34 (in Dollars) - Half the people in the area in this age range earn less than this dollar amount, half earn more than this amount.
+
+Median Income: Age 35-44 (in Dollars) - Half the people in the area in this age range earn less than this dollar amount, half earn more than this amount.
+
+Median Income: Age 45-54 (in Dollars) - Half the people in the area in this age range earn less than this dollar amount, half earn more than this amount.
+
+Median Income: Age 55-64 (in Dollars) - Half the people in the area in this age range earn less than this dollar amount, half earn more than this amount.
+
+Median Income: Age 65-74 (in Dollars) - Half the people in the area in this age range earn less than this dollar amount, half earn more than this amount.
+
+Median Income: Age 75+ (in Dollars) - Half the people in the area in this age range earn less than this dollar amount, half earn more than this amount.
+
+Median Travel Time to Work (in Minutes) - Half the people living in this area travel fewer minutes than this to get to work, half travel more minutes.
+
+Median Years in Residence (in Years) - Half the households in the area have had the same primary householder for longer than this; half have had the same primary household for less time.
+
+Miscellaneous Expenses - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Motor Vehicle Theft Risk - Index score (100=National Average).
+
+Murder Risk - Index score (100=National Average).
+
+Native American, Eskimo, Aleut - Number of people living within the area of this race.
+
+Never Married - Number of people living in the area who have never been married.
+
+NO2 Index - Poisonous brown gases, often found in auto exhaust fumes. It is a primary contributor to smog. Index score (100=National Average).
+
+Number of households (in Households) - Number of households in the area. A household includes all the persons who occupy a housing unit, defined as a house, an apartment, a mobile home or trailer, a group of rooms or a single room occupied as separate living quarters.
+
+Other - Number of people living within the area of this race.
+
+Other Services: Field Based - The number of people working in this area employed in this role.
+
+Other Services: Site Based - The number of people working in this area employed in this role.
+
+Ozone Index - An invisible gas that irritates and impairs breathing. Index score (100=National Average).
+
+Particulate Matter Index - Fine particles of pollutants which tend to reduce visibility and invade the lungs deeply. Index score (100=National Average).
+
+Per Capita Income (in Dollars) - Average individual income of people in the area.
+
+Personal Care - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Personal Crime Risk - Index score (100=National Average) that represents the combined risks of rape, murder, assault and robbery.
+
+Personal Insurance - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Population - Number of people living within the area.
+
+Population age 0-4 - Number of people living within the area in this age range.
+
+Population age 10-14 - Number of people living within the area in this age range.
+
+Population age 15-19 - Number of people living within the area in this age range.
+
+Population age 20-24 - Number of people living within the area in this age range.
+
+Population age 25-29 - Number of people living within the area in this age range.
+
+Population age 30-34 - Number of people living within the area in this age range.
+
+Population age 35-39 - Number of people living within the area in this age range.
+
+Population age 40-44 - Number of people living within the area in this age range.
+
+Population age 45-49 - Number of people living within the area in this age range.
+
+Population age 50-54 - Number of people living within the area in this age range.
+
+Population age 55-59 - Number of people living within the area in this age range.
+
+Population age 5-9 - Number of people living within the area in this age range.
+
+Population age 60-64 - Number of people living within the area in this age range.
+
+Population age 65-69 - Number of people living within the area in this age range.
+
+Population age 70-74 - Number of people living within the area in this age range.
+
+Population age 75-79 - Number of people living within the area in this age range.
+
+Population age 80-84 - Number of people living within the area in this age range.
+
+Population age 85+ - Number of people living within the area in this age range.
+
+Population Change Since 1990 (in Percent) - Percent increase / decrease in population since 1990.
+
+Population Density - Persons per square mile.
+
+Precision, Craft, and Repair: Site Based - The number of people working in this area employed in this role.
+
+Private Household - The number of people working in this area employed in this role.
+
+Professional Specialty Occupations - The number of people working in this area employed in this role.
+
+Property Crime Risk - Index score (100=National Average) that represents the combined risks of burglary, larceny and motor vehicle theft.
+
+Protective Services - The number of people working in this area employed in this role.
+
+Public Administration - The number of people working in this area employed in this industry.
+
+Rape Risk - Index score (100=National Average).
+
+Reading - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Retail Trade - The number of people working in this area employed in this industry.
+
+Robbery Risk - The act of unlawfully taking the property of another by the use of violence or intimidation. Index score (100=National Average).
+
+Sales Professionals - The number of people working in this area employed in this role.
+
+Sales Workers and Clerks - The number of people working in this area employed in this role.
+
+Separated - Number of people living in the area that are married but separated.
+
+Services - The number of people working in this area employed in this industry.
+
+Shelter - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Some College - Number of people achieving this level of education.
+
+Some High School - Number of people achieving this level of education.
+
+Technical, Sales and Administrative: Field Occupations - The number of people working in this area employed in this role.
+
+Technologies and Technicians - The number of people working in this area employed in this role.
+
+Tobacco - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Tornado Index - Index score (100=National Average) that represents total tornado risks. Based on analysis of historical tornado tracks and intensity.
+
+Total Crime Risk - A score that represents the combined risks of rape, murder, assault, robbery, burglary, larceny and vehicle theft compared to the national average of 100. A score of 200 indicates twice the national average total crime risk, while 50 indicates half the national risk. The different types of crime are given equal weight in this score, so murder, for example, does not count more than vehicle theft. Scores are based on demographic and geographic analyses of crime over seven years.
+
+Total Household Expenditure Index - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Transportation - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Transportation and Communications - The number of people working in this area employed in this industry.
+
+Transportation Materials Moving Workers - The number of people working in this area employed in this role.
+
+Transportation to Work: Drive / Carpool (in Percent) - The percentage of workers living in the area who commute as solo drivers, by carpool, or by motorcycle.
+
+Transportation to Work: Public (in Percent) - The percentage of workers living in the area who commute by train, subway, ferry, bus or taxi.
+
+Transportation to Work: Walk / Bike / Other (in Percent) - The percentage of workers living in the area who commute by walking, bicycle or other non-motorized means.
+
+Transportation to Work: Work at Home (in Percent) - The percentage of workers living in the area who work from home.
+
+Unclassified - The number of people working in this area employed in this industry.
+
+Utilities - Index score (100=National Average) that represents the average annual household expenses in this category.
+
+Vacant Homes (in Dwellings) - Number of dwellings in the area of this type.
+
+Weather Risk - Index score (100=National Average) that represents the total risk from various storm types (hurricanes, tornadoes, damaging hailstorms and damaging wind storms).
+
+White - Number of people living within the area of this race.
+
+White Collar Jobs (in Percent) - White collar workers are traditionally defined as office workers, but the lines have become increasingly blurred over recent decades. White collar occupations include administrative and clerical support; executive, administrative and managerial; professional specialties; sales; and technicians and related support.
+
+Wholesale Trade - The number of people working in this area employed in this industry.
+
+Widowed - Number of people living in the area who are widowed.
+
+Wind Index - Index score (100=National Average) that represents the total risks of severe winds. Based on analysis of the frequency and severity of historical damaging windstorms, typically associated with thunderstorms.
+Close Window 
+Copyright ©1999-2013, Move, Inc. All Rights Reserved.
+Move, Inc. | 5401 N Pima Rd, Suite 100, Scottsdale, AZ, 85250 | 800-248-MOVE (6683)
+
